@@ -13,6 +13,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import sys
+sys.path.append("/apdcephfs_nj7/share_1220751/xianyihe/worldmodel/DiffusionNFT")
+
 from collections import defaultdict
 import os
 import datetime
